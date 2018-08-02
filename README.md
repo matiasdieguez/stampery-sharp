@@ -1,5 +1,15 @@
 # stampery-sharp
 
+## Setup
+- Get ClientId and Secret from your dashboard after register at https://api-dashboard.stampery.com/signup
+- Install the NuGet package in your project
+
+```
+
+install-package stamperysharp
+
+```
+
 ## Usage:
 
 ```csharp
