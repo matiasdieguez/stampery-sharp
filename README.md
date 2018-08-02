@@ -1,5 +1,5 @@
 # stampery-sharp
-Stampery C# Client
+StamperySharp is the C# Client for Stampery API, a blockchain-powered, industrial-scale timestamping and certification platform.
 
 ```csharp
 
