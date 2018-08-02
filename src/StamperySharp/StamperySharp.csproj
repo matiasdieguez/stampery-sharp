@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Matías Dieguez</Authors>
+    <Company />
+    <PackageTags>Stampery, Blockchain, Bitcoin, Ethereum, ETH, BTC, Stamp, OpenTimeStamp</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/matiasdieguez/stampery-sharp</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
