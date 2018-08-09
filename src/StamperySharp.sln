@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StamperySharp", "StamperySharp\StamperySharp.csproj", "{ED690836-DBF7-46D6-A848-A2D88D5EA433}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StamperySharp", "StamperySharp\StamperySharp.csproj", "{ED690836-DBF7-46D6-A848-A2D88D5EA433}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StamperySharp.Tests", "StamperySharp.Tests\StamperySharp.Tests.csproj", "{041C6125-C6E5-4068-BCAC-845786C6D9B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EEF814C0-FEB0-4F43-A582-CFCF7A788BFC}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
